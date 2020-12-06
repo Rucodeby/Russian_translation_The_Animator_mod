@@ -1,0 +1,175 @@
+
+{
+	"animator:AlchemistGlove":
+	{
+		"DESCRIPTIONS": ["В начале каждого боя, #yЗаряжает 1 сферу #yОгня."],
+		"FLAVOR": "You can control the flames with the snap of a finger.",
+		"NAME": "Перчатка Алхимика"
+	},
+	"animator:AncientMedallion":
+	{
+		"DESCRIPTIONS": ["В начале боя, Лечит #b{0} ОЗ. NL При подборе, #yУлучшает 2 случайные карты и карту на выбор. Выбранная карта улучшается дважды."],
+		"FLAVOR": "...",
+		"NAME": "Древний Медальон"
+	},
+	"animator:BattleDrones":
+	{
+		"DESCRIPTIONS": ["Наносит #b{0} урона и даёт #b{1} #yЗащиты, когда карта #yСинергирует."],
+		"FLAVOR": "Engineering perfection.",
+		"NAME": "Боевые Дроны"
+	},
+	"animator:Buoy":
+	{
+		"DESCRIPTIONS": ["Если в конце хода ОЗ ниже #b{0}%, даёт #b{1} #yЗащиты."],
+		"FLAVOR": "When it comes to speed I'm the best there is, swift like the island breeze!",
+		"NAME": "Buoy"
+	},
+	"animator:CerealBox":
+	{
+		"DESCRIPTIONS": ["#pПравый #pКлик #yЛечит #b{0} ОЗ. NL Получает #b{2} использования при входе в магазин. NL Может хранить до #b{3} использований."],
+		"FLAVOR": "Whole Grain Guaranteed! Approved by Konayuki.",
+		"NAME": "Cereal Box"
+	},
+	"animator:ColorlessFragment":
+	{
+		"DESCRIPTIONS": ["Заменяет #yПропавший #yКусочек. Каждые #b{0} боёв, получите улучшенную награду. Шанс получить бесцветные карты.", "Данные Тайтлы:"],
+		"FLAVOR": "The colors are slowly fading away...",
+		"NAME": "Бесцветный Кусочек"
+	},
+	"animator:CursedBlade":
+	{
+		"DESCRIPTIONS": ["Начинаете бой с #b{0} #yУсилия и #yПроворности. Когда противники наносят урон по ОЗ, добавляет #yРану в руку."],
+		"FLAVOR": "Power comes at a price.",
+		"NAME": "Проклятое Лезвие"
+	},
+	"animator:CursedGlyph":
+	{
+		"DESCRIPTIONS": ["При подборе, #rотнимает #r{0} #rМакс #rОЗ, у ВСЕХ врагов дополнительное Макс ОЗ. NL NL Карты связанные этой реликвией #yНЕ копируются."],
+		"FLAVOR": "Maybe it was a mistake...",
+		"NAME": "Проклятый Знак"
+	},
+	"animator:EngravedStaff":
+	{
+		"DESCRIPTIONS": ["В начале хода, #yПовышает #yУсилие, #yПроворность, или #yИнтеллект"],
+		"FLAVOR": "One of the most treasured possessions of the Guild.",
+		"NAME": "Engraved Staff"
+	},
+	"animator:ExquisiteBloodVial":
+	{
+		"DESCRIPTIONS":
+		[
+			"В начале каждого боя, лечит #b{0} ОЗ. NL NL #y[Special #yRelic] NL #pПравый #pКлик костёр заменяется специальным боем, побеждая в нём, открывает правдивое описание. NL NL Ты можешь активировать бой после использования костра, рекомендуется проходить колодой уровня 3 акта.",
+			"В начале каждого боя, даёт #b{0} #yРегенирации и #b{1} Макс ОЗ. NL NL Потеряйте ВСЕ #yСосуды #yКрови, при получении #yСосуда #yКрови, улучшите эффект этой реликвии."
+		],
+		"FLAVOR": "A vial containing the blood of a pure and elder vampire.",
+		"NAME": "Exquisite Blood Vial"
+	},
+	"animator:HallowedScabbard":
+	{
+		"DESCRIPTIONS": ["Раз в бой, при потере #b{0} ОЗ или больше, даёт #b{1} #yРегенирации и #b{2} #yУсилия."],
+		"FLAVOR": "The holder of the scabbard is granted potent healing, allowing for critical and fatal wound to be rapidly repaired.",
+		"NAME": "Hallowed Scabbard"
+	},
+	"animator:HeavyHalberd":
+	{
+		"DESCRIPTIONS": ["В начале хода, даёт #b{0} #yУсилие за каждого врага с #yУязвимостью."],
+		"FLAVOR": "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life.",
+		"NAME": "Heavy Halberd"
+	},
+	"animator:HolyGrailRelic":
+	{
+		"DESCRIPTIONS": ["При подборе, даёт #b{0} Макс ОЗ. В начале каждого боя, добавляет #yГрааль в руку."],
+		"FLAVOR": "'Reaching Akasha'. There is no greater purpose than this to us Tohsaka.",
+		"NAME": "Древняя Чаша"
+	},
+	"animator:Hoodie":
+	{
+		"DESCRIPTIONS": ["Если бой закончен без получения урона, даёт #b{0} #yМакс #yОЗ."],
+		"FLAVOR": "With this, you might be admitted to the Hero association.",
+		"NAME": "Толстовка"
+	},
+	"animator:InfinitePower":
+	{
+		"DESCRIPTIONS": ["При подборе, даёт #b", " #yЗолота и #rотнимает #r", " #rМакс #rОЗ. За каждые #b", " карт в колоде, получите награду #pБезимянных карт."],
+		"FLAVOR": "Безграничная Сила! Но какой ценой...",
+		"NAME": "Безграничная Сила"
+	},
+	"animator:LivingPicture":
+	{
+		"DESCRIPTIONS": ["Раз за ход, когда карта #yСинергирует, берите #b1 карту."],
+		"FLAVOR": "Всегда Смотрит.",
+		"NAME": "Живая Картина"
+	},
+	"animator:OldCoffin":
+	{
+		"DESCRIPTIONS": ["Начиная с #b4 хода, накладывает случайный #yНегативный #yЭффект на случайного врага в начале каждого хода."],
+		"FLAVOR": "Шокирующая Правда!",
+		"NAME": "Старый Гроб"
+	},
+	"animator:PurgingStone":
+	{
+		"DESCRIPTIONS": ["Вы можете изгнать будущих #yНормальных наград и магазинов. Получает #b1 использование в конце каждого хода, и #b2 использования за Элиту и Босса. Может хранить #b{0} использований."],
+		"FLAVOR": "Humans are helpless against curses, and can only redirect their influence.",
+		"NAME": "Purging Stone"
+	},
+	"animator:RacePiece":
+	{
+		"DESCRIPTIONS": ["При подборе, выберите #b1 карту, и #yТрансформируйте #b3 карты в #b3 выбранных карты."],
+		"FLAVOR": "Did you see that coming Mr. Mind Reader? Checkmate.",
+		"NAME": "Race Piece"
+	},
+	"animator:Rinne":
+	{
+		"DESCRIPTIONS": ["YmVoYXZlcw== ZXJyYXRpY2FsbHk=, 57GFD0c= NzQ="],
+		"FLAVOR": "???",
+		"NAME": "???"
+	},
+	"animator:ShionDessert":
+	{
+		"DESCRIPTIONS": ["В начале каждого хода, накладывает #b{0} #yЯда на врага с наибольшим #yЯдом."],
+		"FLAVOR": "Here, have a taste, how bad can it be?",
+		"NAME": "Shion's Dessert"
+	},
+	"animator:TheEgnaroPiece":
+	{
+		"DESCRIPTIONS": ["Даёт [E] и берите 1 карту в начале хода. NL Даёт #b{0} #yВременного #yОЗ в конце каждого хода, и увеличивает это число на #b1."],
+		"FLAVOR": "Что за вещица?",
+		"NAME": "The Egnaro Piece"
+	},
+	"animator:TheEruzaStone":
+	{
+		"DESCRIPTIONS": ["Даёт [E] [E] в начале каждого хода. NL Когда разыгрываете #yТалант, берите 1 карту."],
+		"FLAVOR": "Что за вещица?",
+		"NAME": "The Eruza Stone"
+	},
+	"animator:TheMissingPiece":
+	{
+		"DESCRIPTIONS": ["Каждые #b{0} боёв, получите улучшенную награду.", "Данные Тайтлы:"],
+		"FLAVOR": "Что за вещица?",
+		"NAME": "Пропавший Кусочек"
+	},
+	"animator:TheWolleyCore":
+	{
+		"DESCRIPTIONS": ["Берите #b{0} карт в начале каждого хода. NL При разыгрывании карты, наносит #b{1} урона ВСЕМ врагам и даёт #b{2} #yЗащиты."],
+		"FLAVOR": "Что за вещица?",
+		"NAME": "The Wolley Core"
+	},
+	"animator:VividPicture":
+	{
+		"DESCRIPTIONS": ["Заменяет #yЖивую #yКартину. NL Раз за ход, когда карта #yСинергирует, берите #b1 карту и получите [E]"],
+		"FLAVOR": "Постоянно смотрят.",
+		"NAME": "Vivid Picture"
+	},
+	"animator:WizardHat":
+	{
+		"DESCRIPTIONS": ["Начните бой с #b{0} #yИнтеллекта. Если в конце вашего хода осталось #b{1} энергии, нанесите #b{2} урона ВСЕМ врагам. Раз за бой"],
+		"FLAVOR": "Взрывная магия сильнейшая из всех. Но требует время для подготовки.",
+		"NAME": "Шляпа Мага"
+	},
+	"animator:WornHelmet":
+	{
+		"DESCRIPTIONS": ["Начните бой с #b{0} #yЗащиты. В конце хода, даёт #b{1} #yЗащиты за каждый #yСтатус и #yПроклятье в руке."],
+		"FLAVOR": "Гоблины.",
+		"NAME": "Worn Helmet"
+	}
+}
