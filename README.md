@@ -4,9 +4,14 @@
 
 ### Инструкция:
 
-- Файлы из репозитория, кроме README, переместить в папку localization/eng, с заменой, в архиве мода.
+Файлы из репозитория переместить по данным путям
 
-- Архив мода в стим версии Steam\SteamApps\workshop\content\646570\1638308801.
+C:\temp\animator-localization сюда файлы из папки animator
 
-- Архив мода в расширении jar (Пример Lobotomy.jar).
+
+C:\temp\eyb-localization сюда файлы из папки eyb
+
+
+
+
 
