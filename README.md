@@ -1,5 +1,5 @@
 # Russian_translation_The_Animator_mod
-# ПРЕДУПРЕЖДЕНИЕ: ПЕРЕВОД ПОКА НЕ РАБОТАЕТ
+
 # https://drive.google.com/file/d/1mnKMj80SuCVG6qP8zdg1s6H4vbftON_w/view
 
 ### Инструкция:
@@ -9,9 +9,9 @@
 C:\temp\animator-localization сюда файлы из папки animator
 
 
-C:\temp\eyb-localization сюда файлы из папки eyb
+C:\temp\eyb-localization сюда файлы из папки eyb 
 
-
+Если таких папок у вас нет, создайте их. 
 
 
 
