@@ -14,26 +14,26 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"You stumble across a small and seemingly abandoned cabin. NL NL Tired and hungry, you decide to go against your better instincts and enter it. NL NL After checking for possible inhabitants, you soon ~fall~ ~asleep...~",
+			"Вы натыкаетесь на маленькую и, кажется, заброшенную хижину. NL NL Уставший и голодный, вы идете против своих хороших инстинктов и решаете зайти в неё. NL NL После проверки на возможных обитателей, вы вскоре ~упали~ ~и~ ~уснули...~",
 
-			"You are awakened by a loud knocking noise. NL NL The room is almost #pcompletely #pdark, NL but you perceive a @creature@ standing in front of you.",
+			"Вы проснулись от громкого стука. NL NL В комнате #pкромешная #pтьма, NL но вы видите @существо@ стоящее перед вами.",
 
-			"\"Hunger... need #rblood... trade?\" NL NL The @creature@ extends his arm towards you, revealing an #yAncient #yMedallion, you wonder if accepting would be a good idea...",
+			"\"Голод... нужно #rкровь... торговать?\" NL NL @Существо@ протягивает руку с #yДревним #yМедальоном, вы думаете хорошая ли это идея...",
 
-			"You ran towards the door as fast as you could, NL and then as far away from the cabin as possible.",
+			"Вы побежали к выходу и как можно дальше от хижины NL настолько быстро наколько могли.",
 
-			"You try to grab the medallion when suddenly the @creature@ #rbites your arm with great force. Nonetheless, it lets you take the relic.",
+			"Вы пытаетесь схватить медальон, как вдруг @существо@ сильно #rкусает вас за руку. Тем не менее, позволяет забрать реликвию.",
 
-			"\"Need more... trade... again...\" NL NL The @creature@ reveals another #yAncient #yMedallion. NL NL You are #rseverely #rwounded from the previous trade...",
+			"\"Нужно больше... торговать... снова...\" NL NL @Существо@ показывает ещё один #yДревний #yМедальон. NL NL Вы уже #rтяжело #rранены с прошлой торговли...",
 
-			"You ran out of the cabin, NL but the creature managed to hurt you once more.",
+			"Вы сбежали из хижины, NL но существо успело задеть вас ещё разик.",
 
-			"This hurt much more than before. NL NL But the @creature@ seems satisfied as it slowly abandons the cabin."
+			"Это было гораздо больнее прошлого раза. NL NL Но @существо@ вроде наелось и ушло из хижины."
 		],
-		"NAME": "The Abandoned Cabin",
+		"NAME": "Заброшенная хижина",
 		"OPTIONS":
 		[
-			"[Принять] #rПотеряйте #r{0} #rОЗ. #gПолучите #gРеликвию",
+			"[Принять] #rПотерять #r{0} #rОЗ. #gПолучить #gРеликвию",
 			"[Бежать]",
 			"[Попробовать Убежать] #r50% #rшанс #потерять #r{0} #rОЗ"
 		]
@@ -42,14 +42,14 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"#yEverything #yin #ythis #yplace #yseems #yto #ybe #ymade #yof #ygold. #yIt #yseems #ythe #ywhole #ylandscape #yhas #ychanged... #yMountains #yof #yglimmering #yGold #yeverywhere. #yA #yriver #yof #ymolten #ygold #ycourses #ythrough #yit. #yWhy #ydid #yyou #ynot #ynotice #yit #yearlier? NL NL #yNo #ymatter, #yyou #yfeel #ycompelled #yto #ytake #ysome #yof #yit, NL #yyou #r@HAVE@ #yto #ytake #ysome #yof #yit. #yJust #ya #yfew #ygolden #yrocks. NL NL #y... #ywhat #yis #ythe #yworst #ythat #ycould #yhappen?",
+			"#yВсё #yздесь, #yкажется, #yсделано #yиз #yзолота. #yКажется, #yвесь #yландшафт #yизменился... #yВезде #yгоры #yмерцающего #yЗолота. #yТекут #yреки #yиз #yплавленного #yзолота. #yПочему #yвы #yне #yзаметили #yэтого #yраньше? NL NL #yНе #yимеет #yзначения, #yвы #yчувствуете #yчто #yобязяны #yчто-то #yвзять, NL #yнет, #yвы #r@ДОЛЖНЫ@ #yчто-то #yвзять. #yВсего-то #yнесколько #yзолотых #yкамней. NL NL #y... #yЧто #yплохого #yможет #yпроизойти?",
 
-			"NL NL NL NL NL NL NL #ySomething #yis #ylaughing #yin #ythe #yfar #ydistance."
+			"NL NL NL NL NL NL NL #yЧто-то #yсмеётся #yв #yдалеке."
 		],
-		"NAME": "The Haunt",
+		"NAME": "Одержимость",
 		"OPTIONS":
 		[
-			"[Взять Золото] #yПолучите #y{0} #yЗолота.",
+			"[Взять Золото] #yПолучить #y{0} #yЗолота.",
 			"[Уйти] #gВосполнить #g{0} #gОЗ"
 		]
 	},
@@ -57,11 +57,11 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"While passing by this #ytotally not #yreused game asset, a masked figure with a large backpack approaches you. NL NL \"Greetings friend, are you perchance carrying some @'special'@ weaponry?\" NL ... NL \"Are you willing to sell it?\" NL NL \"Or perhaps you would prefer to buy some from my ... #ycollection ?\"",
+			"Проходя мимо #yсовершенно не #yиспользованных игровых ассетов, к вам приблежается кто-то в маске с большим рюкзаком. NL NL \"Привет, парниш, у тебя случайно нет какого нибудь @'уникального'@ оружия?\" NL ... NL \"Не хош его продать?\" NL NL \"Иль может хош прикупить себе... #yколлекцию ?\"",
 
-			"\"Did he actually accept?\" NL ... NL NL \"Ahem... I am @grateful@ for the #ytrade , be safe on your journey.\" NL NL That said, he disappeared from your sight."
+			"\"Чо, правда что ли?\" NL Ну... NL NL \"Чтож... @Спасибо@ за #yторговлю , удачки в путешествии.\" NL NL Сказав это, он исчез."
 		],
-		"NAME": "The Masked Traveler",
+		"NAME": "Торговец в маске",
 		"OPTIONS":
 		[
 			"[Продать] #gУдалить {0}. #gПолучить #g{1} #gЗолота.",
@@ -74,13 +74,13 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"\"It's you! Are you on your way to defeat the @Heart@ of the Spire?\" NL NL \"Why don't you help me with another menace instead? You see, The Unnamed has returned, but don't you worry! It's nothing you can't defeat!\"",
+			"\"О, эт ты! Собираешься @Сердце@ Шпиля прибить?\" NL NL \"Ну тут короче такая хрень, Безымянный вернулся, но не волнуйся! Я верю в тебя, если ты не веришь в себя,верь мою веру в тебя!\"",
 
-			"\"Well, there is a small detail... To fight the Unnamed you will have to trade ALL your Relics, Gold, Potions and cards Upgrades for one of these #ySpecial #yRelics:\" NL NL \"However you might be able to gain some Gold back based on your Equipment, I would say about #b{0} #yGold.\"",
+			"\"Но есть маленькая деталь... Этот хрен забирает ВСЁ: Реликвии, Золото, Улучшения карт, Зелья и даёт одну из этих #yВшивых #yРеликвий:\" NL NL \" видимо хоть немного чести у него осталось. Ты мож вернуть часть спиженного Золота, примерно #b{0} , всё зависит от тебя и твоих карточек.\"",
 
-			"\"Perfect! just go ahead and you shall find him, I'm counting on you!\" NL NL \"Oh wait! I almost forgot, you will find a lot of these in there. Here, have one... Or if you prefer I could change some of your cards.\""
+			"\"Вот теперь ты готов, просто иди вперёд и ты точно найдёшь этого мудилу!\" NL NL \"Ой, стоять! Чуть не забыл у меня же есть тут много всякой всячины. Вот одна хрень... Или мы могли бы договорится с картами.\""
 		],
-		"NAME": "The Masked Traveler (Part 2)",
+		"NAME": "Торговец в маске (Часть 2)",
 		"OPTIONS":
 		[
 			"[Принять] #gПолучить #gРеликвию",
@@ -92,11 +92,11 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"\"Good evening friend!\" NL NL \"How did I get here? It matters not. We simply needed another event for this act! Trade 1 medallion or #b150 #yGold for a rare card, your choice. Or well... you could also leave\"",
+			"\"Мы снова встретились, парнишка!\" NL NL \"Как думаешь как я сюда попал *ик* ? Я вот тоже без понятия. У меня тут короче медальон завалялся *ик* и редкая картишка, не желаешь *ик* купить? Ну иль можешь съё&#%аться н#%&р отсюда!\"",
 
-			"\"Thanks! Now you can click on 'Leave'.\""
+			"\"Спасибки боль *ик* большое, досвиданья.\""
 		],
-		"NAME": "The Masked Traveler (Part 3)",
+		"NAME": "Торговец в маске (Часть 3)",
 		"OPTIONS":
 		[
 			"[Торговать] #rОтдать #r1 #rДревний #rМедальон. #gПолучить #gУлучшенную #gредкую #gкарту.",
@@ -108,18 +108,18 @@
 	"animator:TheUnnamedMerchant":
 	{
 		"DESCRIPTIONS":
-		[
-			"\"I am a merchant\" NL NL You hear someone speaking, you turn your head and see a strange person, completely still, staring at you, as if expecting something.",
 
-			"\"I sell and I buy things...\" NL NL \"But the only things of value here are these #yAncient #yMedallions. Are you buying? Or are you selling?\"",
+            "\"Я торговец\"Вы слышите, как кто-то говорит, поворачиваете голову и видите странного человека, совершенно неподвижного, смотрящего на вас, как будто чего-то ожидающего.",
 
-			"\"Fine, but do not tempt your fate.\"",
+            "\"Я продаю и покупаю вещи...\" NL NL \"Но единственная ценность для меня это #yДревние #yМедальоны. Вы будете покупать или продавать?\"",
 
-			"\"These are my prices. I will not change them.\"",
+            "\"Хорошо, но не искушай свою судьбу.\"",
 
-			"\"Good Deal... Good Deal\""
-		],
-		"NAME": "The Unnamed Merchant",
+            "\"Это мои цены. Я не стану их менять.\"",
+
+            "\"Хорошая сделка... Хорошая\""
+             
+],		"NAME": "Безымянный торговец",
 		"OPTIONS":
 		[
 			"[Продать] #gПолучить #g{0} #gЗолота. #rОтдать #rДревний #rМедальон.",
@@ -133,16 +133,16 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Numerous trees flood your vision as you're quickly engulfed by a thick forest. NL NL The air is ~heavy~ ~and~ ~humid,~ filled with spores from fungi and the leafs all seem to be wet from recent rain. NL NL Dancing through the trees, a ghostly figure spins in the air, fading in and out of existence while approaching you.",
+			"Вы видите лишь многочислинные деревья, посколку вас быстро поглотил густой лес. NL NL Воздух ~тяжёлый~ ~и~ ~влажный,~ наполненный спорами грибов, и похоже все листья мокрые от недавнего дождя. NL NL Приближаясь к вам и танцуя среди деревьев, призрачная фигура кружится в воздухе, появляясь и исчезая из мира сего.",
 
-			"\"This is no place for a mortal, are you perhaps lost?\" NL NL The green haired apparition says in a calm yet surprised tone. NL NL \"Oh! You've got your own set of afflictions, if you are going to persist they'll slow you down. It is my duty to contain those, but I can also show you how to harvest power from them.\" NL NL She seems to mean no harm, what will you do?",
+			"\"Тут не место смертным, может, ты заблудился?\" NL NL - говорит зеленоволосое привидение спокойным, но удивлённым тоном. NL NL \"О! У вас есть проблемки, если вы так и продолжите, они будут лишь замедлять вас. Мой долг собирать такие недуги, но хотите я научу вас извлекать из них силу.\" NL NL Она, вроде, не хочет тебе навредить, что ты сделаешь?",
 
-			"Blinding light envelops you completely robbing you of your vision, when you finally are able to see again, you're by yourself again. NL NL The trees and mushrooms stand mockingly still as you're left to wonder what happened, but somehow both the air and yourself feel lighter."
+			"Окутывающий ослепительный свет, лишает вас зрения, когда вы наконец можете открыть глаза, вы снова сами по себе. NL NL Деревья и грибы стоят неподвижно будто насмехаясь над вами, вы пытаетесь понять что с вами произошло, но воздух легче и вы чуствуете себя легче."
 		],
 		"NAME": "Проклятый Лес",
 		"OPTIONS":
 		[
-			"[Embrace] #gПолучите #gHina #gKagiyama #rи #rПроклятье.",
+			"[Обнять] #gПолучите #gХина #gКагияма #rи #rПроклятье.",
 			"[Очищение] #gУдалить #g{0} #gСлучайных #gПроклятья."
 		]
 	}

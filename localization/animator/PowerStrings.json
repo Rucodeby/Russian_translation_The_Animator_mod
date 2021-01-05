@@ -3,32 +3,32 @@
 	"animator:AinzPower":
 	{
 		"DESCRIPTIONS": ["В начале вашего хода активируйте 1 из 4 случайных эффектов #b", " раза."],
-		"NAME": "Аинз Оул Гоун"
+		"NAME": "Аинз Оал Гоун"
 	},
 	"animator:ArcherPower":
 	{
-		"DESCRIPTIONS": ["В конце вашего хода, наносит #b", " урона ВСЕМ врагам за каждый негативный эффект на вас."],
-		"NAME": "Лучник"
+		"DESCRIPTIONS": ["В конце хода, наносит #b", " урона ВСЕМ врагам за каждый отрицательный эффект на вас."],
+		"NAME": "Арчер"
 	},
 	"animator:AzrielPower":
 	{
-		"DESCRIPTIONS": ["Даёт #b", " Силы. При наложении негативного эффекта на противника"],
-		"NAME": "Azriel"
+		"DESCRIPTIONS": ["Даёт #b", " Силы, при наложении отрицательного эффекта на противника"],
+		"NAME": "Азриэль"
 	},
 	"animator:BiyorigoPower":
 	{
 		"DESCRIPTIONS": ["В конце хода, тратит #b{0} оставшуюся энергию на получение #b{1} #yПроворства и #yУсилия."],
-		"NAME": "Bito Kanzashi"
+		"NAME": "Бито Канзаши"
 	},
 	"animator:BorosPower":
 	{
 		"DESCRIPTIONS": ["ВСЕ #yТаланты разыгрываются дважды."],
-		"NAME": "Boros"
+		"NAME": "Борос"
 	},
 	"animator:BozesPower":
 	{
 		"DESCRIPTIONS": ["Когда карты #yСинергируют, даёт #b", " #yУрона #yПоддержки."],
-		"NAME": "Bozes Co Palesti"
+		"NAME": "Бозес Ко Палести"
 	},
 	"animator:BurningPower":
 	{
@@ -37,143 +37,143 @@
 	},
 	"animator:ChlammyZellPower":
 	{
-		"DESCRIPTIONS": ["Whenever you play alternating card types this turn, deal #b", " damage to ALL enemies and #yCycle #b1 card. NL NL Last Type played: #y"],
-		"NAME": "Kurami"
+		"DESCRIPTIONS": ["Наносит #b", " урона ВСЕМ врагам и #yПрогоняет #b1 карту, когда вы разыгрываете карту другого типа. NL NL Последний разыгранный тип: #y"],
+		"NAME": "Курами"
 	},
 	"animator:CursedStabsPower":
 	{
-		"DESCRIPTIONS": ["Whenever it deals unblocked damage, add 1 #yPain to your draw pile."],
-		"NAME": "Cursed Stabs"
+		"DESCRIPTIONS": ["Добавляет 1 #yБоль в стопку добора, когда вы наносите урон по ОЗ."],
+		"NAME": "Проклятые лезвия"
 	},
 	"animator:DarkCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, apply #b", " #yConstricted to ALL other characters."],
-		"NAME": "Dark Crystal"
+		"DESCRIPTIONS": ["Накладывает #b", " #yСдавленности ВСЕМ когда является целью карты."],
+		"NAME": "Кристалл Тьмы"
 	},
 	"animator:DarkCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, apply #b", " #yConstricted to the enemy."],
-		"NAME": "Dark Cube"
+		"DESCRIPTIONS": ["Накладывает #b", " #yСдавленности врагу в конце каждого хода."],
+		"NAME": "Куб Тьмы"
 	},
 	"animator:DarkWispPower":
 	{
-		"DESCRIPTIONS": ["On death, apply #b", " #yConstricted to ALL characters."],
-		"NAME": "Dark Wisp"
+		"DESCRIPTIONS": ["Накладывает #b", " #yСдавленности ВСЕМ, когда погибает."],
+		"NAME": "Огонёк Тьмы"
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["The next #b", " time(s) you take damage, add 1 #yAdrenaline to your draw pile."],
+		"DESCRIPTIONS": ["Следующий(е) #b", " раз(а) когда вы получите урон по ОЗ, добавляет 1 #yАдреналин в стопку добора."],
 		"NAME": "Дастинес Форд Лалатина"
 	},
 	"animator:DelayedHealPower":
 	{
-		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
-		"NAME": "Delayed Heal"
+		"DESCRIPTIONS": ["Восполняет #g", " ОЗ в начале следующего хода."],
+		"NAME": "Отложенное лечение"
 	},
 	"animator:EarthenThornsPower":
 	{
-		"DESCRIPTIONS": ["When attacked, deal #b", " damage back."],
-		"NAME": "Earthen Thorns"
+		"DESCRIPTIONS": ["Наносит #b", " урона, когда вас атакуют."],
+		"NAME": "Земляные Шипы"
 	},
 	"animator:EmiyaShirouPower":
 	{
-		"DESCRIPTIONS": ["Whenever an enemy loses its block this turn, gain #b1 energy and draw #b1 random #yAttack."],
-		"NAME": "Unlimited Blade Works"
+		"DESCRIPTIONS": ["Даёт #b1 энергию и берёт #b1 случайную #yАтаку, когда враг теряет защиту в этом ходу."],
+		"NAME": "Нескончаемые удары"
 	},
 	"animator:EnchantedArmorPower":
 	{
-		"DESCRIPTIONS": ["Take #b", "% less damage."],
-		"NAME": "Enchanted Armor"
+		"DESCRIPTIONS": ["Получаете на #b", "% меньше урона."],
+		"NAME": "Зачарованная броня"
 	},
 	"animator:EntouJyuuPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #yAttack(s) this turn, draw #b1 card and apply #b1 #yBurning to ALL enemies."],
+		"DESCRIPTIONS": ["Следующая(ие) #b", " #yАтака(и) в этом ходу, берёт(ут) #b1 карту и накладывает(ют) #b1 #yГорения ВСЕМ врагам."],
 		"NAME": "Entou Jyuu"
 	},
 	"animator:EnvyPower":
 	{
-		"DESCRIPTIONS": ["The first #b", " card(s) you play each turn will Synergize."],
-		"NAME": "Envy"
+		"DESCRIPTIONS": ["Первые #b", " разыгранные карты в Синергируют каждый ход."],
+		"NAME": "Зависть"
 	},
 	"animator:EvePower":
 	{
-		"DESCRIPTIONS": ["Whenever a card #ySynergizes, deal #b", " damage to a random enemy, then increase this damage by 1."],
-		"NAME": "Eve"
+		"DESCRIPTIONS": ["Наносит #b", " урона случайному врагу, затем увеличивает этот урон на 1, когда карты Синергируют."],
+		"NAME": "Ева"
 	},
 	"animator:FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["Whenever a card is Exhausted, a random enemy loses #b", " HP and you gain #b", " #yTemporary #yHp."],
+		"DESCRIPTIONS": ["Случайный враг теряет #b", " ОЗ и вы получаете #b", " #yВременного #yОЗ, когда карта #yСжигается."],
 		"NAME": "Ferid Bathory"
 	},
 	"animator:FireCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, ALL other characters gain #b", " #yStrength and #yBurning."],
-		"NAME": "Fire Crystal"
+		"DESCRIPTIONS": ["ВСЕ получают #b", " #yСилы и #yГорения, когда является целью карты."],
+		"NAME": "Кристалл Огня"
 	},
 	"animator:FireCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, ALL allies gain #b", " #yStrength and #yBurning."],
-		"NAME": "Fire Cube"
+		"DESCRIPTIONS": ["ВСЕ союзники получают #b", " #yСилы и #yГорения в конце каждого хода."],
+		"NAME": "Куб Огня"
 	},
 	"animator:FireWispPower":
 	{
-		"DESCRIPTIONS": ["On death, ALL characters gain #b", " #yStrength and #yBurning."],
-		"NAME": "Fire Wisp"
+		"DESCRIPTIONS": ["ВСЕ получают #b", " #yСилы и #yГорения, когда погибает."],
+		"NAME": "Огонёк Пламени"
 	},
 	"animator:FlamingWeaponPower":
 	{
-		"DESCRIPTIONS": ["Whenever you deal unblocked damage to an enemy, apply #b", " #yBurning."],
-		"NAME": "Flaming Weapon"
+		"DESCRIPTIONS": ["Накладывает #b", " #yГорения, когда вы наносите урон по ОЗ."],
+		"NAME": "Пламенное Оружие"
 	},
 	"animator:FrostCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, All other characters gain #b", " #yPlated #yArmor."],
-		"NAME": "Frost Crystal"
+		"DESCRIPTIONS": ["ВСЕ получают #b", " #yПанциря, когда является целью карты."],
+		"NAME": "Кристалл Льда"
 	},
 	"animator:FrostCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, All allies gain #b", " #yPlated #yArmor."],
-		"NAME": "Frost Cube"
+		"DESCRIPTIONS": ["ВСЕ союзники получают #b", " #yПанциря в конце каждого хода."],
+		"NAME": "Куб Льда"
 	},
 	"animator:FrostWispPower":
 	{
-		"DESCRIPTIONS": ["On death, All characters gain #b", " #yPlated #yArmor."],
-		"NAME": "Frost Wisp"
+		"DESCRIPTIONS": ["ВСЕ получают #b", " #yПанциря, когда помирает."],
+		"NAME": "Огонёк Льда"
 	},
 	"animator:GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["Maintain up to #b", " #yBlock at the start of each turn."],
-		"NAME": "Gazel Dwargon"
+		"DESCRIPTIONS": ["Сохраняет до #b", " #yЗащиты в начале каждого хода."],
+		"NAME": "Газель Дварго"
 	},
 	"animator:GeassPower":
 	{
-		"DESCRIPTIONS": ["Will attack itself this turn."],
-		"NAME": "Geass"
+		"DESCRIPTIONS": ["Вы атакуете себя в этот ход."],
+		"NAME": "Гиасс"
 	},
 	"animator:GuildGirlPower":
 	{
-		"DESCRIPTIONS": ["At the start of your turn Cycle #b", " cards."],
-		"NAME": "Guild Girl"
+		"DESCRIPTIONS": ["В начале хода #yПрогоняет #b", " карты."],
+		"NAME": "Регистратор"
 	},
 	"animator:HandSizePower":
 	{
-		"DESCRIPTIONS": ["Your current maximum hand size is #b", "."],
-		"NAME": "Hand Size"
+		"DESCRIPTIONS": ["Вы можете держать в руке #b", " карт."],
+		"NAME": "Размер руки"
 	},
 	"animator:HealingCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, ALL other characters heal #b", " HP."],
-		"NAME": "Healing Crystal"
+		"DESCRIPTIONS": ["Восполняет ВСЕМ #b", " ОЗ, когда является целью карты."],
+		"NAME": "Кристалл Лечения"
 	},
 	"animator:HealingCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, ALL allies heal #b", " HP."],
-		"NAME": "Healing Cube"
+		"DESCRIPTIONS": ["Восполняет ВСЕМ союзникам #b", " ОЗ, в конце каждого хода."],
+		"NAME": "Куб Лечения"
 	},
 	"animator:HealingWispPower":
 	{
-		"DESCRIPTIONS": ["On death, ALL characters heal #b", " HP."],
-		"NAME": "Healing Wisp"
+		"DESCRIPTIONS": ["Восплняет ВСЕМ #b", " ОЗ, когда погибает."],
+		"NAME": "Огонёк Лечения"
 	},
 	"animator:HigakiRinnePower":
 	{
@@ -182,127 +182,127 @@
 	},
 	"animator:HiteiPower":
 	{
-		"DESCRIPTIONS": ["At the start of your turn, choose and Exhaust #b", " card(s) in your deck."],
-		"NAME": "Princess Hitei"
+		"DESCRIPTIONS": ["Выберите и #yСожгите #b", " карты(ы) в колоде."],
+		"NAME": "Принцесса Хитэй"
 	},
 	"animator:HornedBat_PurplePower":
 	{
-		"DESCRIPTIONS": ["Immune to #yPoison. NL Dies upon losing #yFlight."],
-		"NAME": "Horned Bat (P)"
+		"DESCRIPTIONS": ["Иммунитет к #yЯду. NL Умирает при потере #yПолёта."],
+		"NAME": "Рогатая Летучая Мышь (P)"
 	},
 	"animator:HornedBat_RedPower":
 	{
-		"DESCRIPTIONS": ["Immune to #yBurning. NL Dies upon losing #yFlight."],
-		"NAME": "Horned Bat (R)"
+		"DESCRIPTIONS": ["Иммунитет к #yГорению. NL Умирает при потере #yПолёта."],
+		"NAME": "Рогатая Летучая Мышь (R)"
 	},
 	"animator:InfinitePower":
 	{
-		"DESCRIPTIONS": ["Before taking unblocked damage: Gains that much #yEnchanted #yArmor. NL When receiving a debuff: Gains that much #yRegeneration. NL When the enemy receives a buff: Gains that much #yStrength. NL Loses half of these stats at the end of each turn."],
-		"NAME": "Infinite Power"
+		"DESCRIPTIONS": ["После получение урона по ОЗ: Даёт много #yЗачарованной #yБрони. NL При получении Отриц. Эффекта: Даёт много #yРегенерации. NL Когда враг получает Положительный Эффект: Даёт много #yСилы. NL Уменьшает вдвое эти эффекты в конце каждого хода."],
+		"NAME": "Безграничная Сила"
 	},
 	"animator:KaijinPower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, #yRetain a card and increase its damage and #yBlock by #b", " this combat."],
-		"NAME": "Kaijin"
+		"DESCRIPTIONS": ["В конце каждого хода, #yОставляет карту и увеличивает её урон и #yЗащиту на #b", " до конца боя."],
+		"NAME": "Кайджин"
 	},
 	"animator:LightningCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, ALL other characters take #b", " #yPiercing damage."],
-		"NAME": "Lightning Crystal"
+		"DESCRIPTIONS": ["ВСЕ получают #b", " #yПронзающего урона, когда является целью карты."],
+		"NAME": "Кристалл Молнии"
 	},
 	"animator:LightningCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, deal #b", " #yPiercing damage to the enemy."],
-		"NAME": "Lightning Cube"
+		"DESCRIPTIONS": ["Наносит #b", " #yПронзающего урона врагу в конце каждого хода."],
+		"NAME": "Куб Молнии"
 	},
 	"animator:LightningWispPower":
 	{
-		"DESCRIPTIONS": ["On death, ALL characters take #b", " #yPiercing damage."],
-		"NAME": "Lightning Wisp"
+		"DESCRIPTIONS": ["Наносит #b", " #yПронзающего урона ВСЕМ, когда погибает."],
+		"NAME": "Огонёк Молнии"
 	},
 	"animator:MarkOfPoisonPower":
 	{
-		"DESCRIPTIONS": ["Whenever you receive damage also receive #b", " #yPoison."],
-		"NAME": "Mark of Poison"
+		"DESCRIPTIONS": ["Когда получает урон получает #b", " #yЯда."],
+		"NAME": "Ядовитая метка"
 	},
 	"animator:NextTurnDexterityPower":
 	{
-		"DESCRIPTIONS": ["Next turn, gain #b", " Temporary #yDexterity."],
-		"NAME": "Next Turn Dexterity"
+		"DESCRIPTIONS": ["Даёт #b", " Временной #yЛовкости, на следующий ход."],
+		"NAME": "Ловкость на следующий ход"
 	},
 	"animator:OrbCore_AetherPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, draw #b", " cards, then discard 1 card."],
-		"NAME": "Aether Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, вы берёте #b", " карты, затем сбрасываете 1 карты."],
+		"NAME": "Ядро Воздуха"
 	},
 	"animator:OrbCore_ChaosPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, #yDiscover #b", " card(s)."],
-		"NAME": "Chaos Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, #yDiscover #b", " карту(ы)."],
+		"NAME": "Ядро Хаоса"
 	},
 	"animator:OrbCore_DarkPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, apply #b", " #yWeak and #yVulnerable to a random enemy."],
-		"NAME": "Dark Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, накладывают #b", " #yСлабости и #yУязвимости случайному врагу."],
+		"NAME": "Ядро Тьмы"
 	},
 	"animator:OrbCore_EarthPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " Temporary #yThorns."],
-		"NAME": "Earth Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, дают #b", " Временных #yШипов."],
+		"NAME": "Ядро Земли"
 	},
 	"animator:OrbCore_FirePower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, apply #b", " #yBurning to ALL enemies."],
-		"NAME": "Fire Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, накладывают #b", " #yГорения ВСЕМ врагам."],
+		"NAME": "Ядро Огня"
 	},
 	"animator:OrbCore_FrostPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yPlated #yArmor."],
-		"NAME": "Frost Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, дают #b", " #yПанциря."],
+		"NAME": "Ядро Льда"
 	},
 	"animator:OrbCore_LightningPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, deal #b", " damage to ALL enemies."],
-		"NAME": "Lightning Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, наносят #b", " урона ВСЕМ врагам."],
+		"NAME": "Ядро Молнии"
 	},
 	"animator:OrbCore_PlasmaPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yTemporary #yHP."],
-		"NAME": "Plasma Core"
+		"DESCRIPTIONS": ["Следующие #b", " #yСинергии в этом ходу, дают #b", " #yВременного #yОЗ."],
+		"NAME": "Ядро Плазмы"
 	},
 	"animator:PinaCoLadaPower":
 	{
-		"DESCRIPTIONS": ["Your next #b", " #y0-Cost card(s) are played twice."],
-		"NAME": "Piña Co Lada"
+		"DESCRIPTIONS": ["Следующие #b", " карты с 0 стоимостью разыгрваются дважды."],
+		"NAME": "Пина Ко Лада"
 	},
 	"animator:PoisonAffinityPower":
 	{
-		"DESCRIPTIONS": ["Whenever you apply #yPoison, apply #b", " additional #yPoison."],
-		"NAME": "Poison Affinity"
+		"DESCRIPTIONS": ["Накладывает #b", " #yЯда, когда вы накладываете #yЯд."],
+		"NAME": "Родство с ядом"
 	},
 	"animator:PridePower":
 	{
-		"DESCRIPTIONS": ["Until your next turn, when you would take unblocked damage, your rightmost #yDark Orb loses that much damage instead."],
-		"NAME": "Pride"
+		"DESCRIPTIONS": ["Правая Сфера #yТьмы теряет урон поглощяя урон по ОЗ до конца следующего хода."],
+		"NAME": "Прайд"
 	},
 	"animator:RoryMercuryPower":
 	{
-		"DESCRIPTIONS": ["Your #yAttacks this turn deal #b", "% more damage."],
-		"NAME": "Rory Mercury"
+		"DESCRIPTIONS": ["#yАтаки наносят на #b", "% больше урона в этом ходу."],
+		"NAME": "Рори Меркьюри"
 	},
 	"animator:ShikizakiKikiPower":
 	{
-		"DESCRIPTIONS": ["At the start of your turn, choose and Obtain #b", " #yAttack(s). Gain #yForce equal to their cost."],
-		"NAME": "Shikizaki Kiki"
+		"DESCRIPTIONS": ["В начале хода, выберите и Добавьте #b", " #yАтаку(и). Даёт #yУсилия равное их стоимости."],
+		"NAME": "Кики Шикизаки"
 	},
 	"animator:ShiroPower":
 	{
-		"DESCRIPTIONS": ["At the start of your turn, gain #b", " energy."],
+		"DESCRIPTIONS": ["В начале хода, даёт #b", " энергии."],
 		"NAME": "Широ"
 	},
 	"animator:SonicPower":
 	{
-		"DESCRIPTIONS": ["At the start of your next #b", " turns, gain #b1 #yDexterity and add #b1 #yThrowing-Knives to your hand."],
+		"DESCRIPTIONS": ["Через #b", " хода, даёт #b1 #yЛовкость и #b1 #yМетательный #yкинжал в руку."],
 		"NAME": "Сверхзвуковой Соник"
 	},
 	"animator:StolenGoldPower":
@@ -312,47 +312,47 @@
 	},
 	"animator:StrategicInformationPower":
 	{
-		"DESCRIPTIONS": ["The next #b", " time(s) you discard a card, gain #b", " #yBlock and deal #b", " damage to the lowest health enemy."],
-		"NAME": "Strategic Information"
+		"DESCRIPTIONS": ["Следующие #b", " сброшенная(ые) карта(ы), даёт(ют) #b", " #yЗащиты и наносит(ят) #b", " урона врагу с наименьшим ОЗ."],
+		"NAME": "Стратегическая информация"
 	},
 	"animator:SupportDamagePower":
 	{
-		"DESCRIPTIONS": ["Deal #b", " damage to the enemy with lowest HP at the end of your turn."],
-		"NAME": "Support Damage"
+		"DESCRIPTIONS": ["Наносит #b", " урона врагу с наименьшим ОЗ в конце каждого хода."],
+		"NAME": "Урон Поддержки"
 	},
 	"animator:TheUnnamedCultistPower":
 	{
-		"DESCRIPTIONS": ["While there are other allies alive, gains #b", " Enchanted Armor for each."],
-		"NAME": "Unnamed Cultist"
+		"DESCRIPTIONS": ["Получает #b", " #yЗачарованной #yброни за каждого живого союзника."],
+		"NAME": "Безымянный Культист"
 	},
 	"animator:TheUnnamedHatPower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, all allies heal #b", " HP. NL NL On death, apply #yEntangle to the opponent."],
+		"DESCRIPTIONS": ["В конце каждого хода, восполняет ВСЕМ союзникам #b", " ОЗ. NL NL Накладывает вам #yЗамешательство, когда погибает."],
 		"NAME": "Ш4ПК4"
 	},
 	"animator:UltimateCrystalPower":
 	{
-		"DESCRIPTIONS": ["Whenever a card is played, gains #b", " #yStrength. NL NL After #b", " turn(s), summons a copy of itself."],
+		"DESCRIPTIONS": ["Получает #b", " #yСилы, когда вы разыгрываете карты. NL NL Через #b", " ход(а), копируется."],
 		"NAME": "Ультимативный Кристалл"
 	},
 	"animator:UltimateCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, gains #b", " random Buff. NL NL Explodes after #b", " turns, dealing #b", " damage. NL (hits multiple times)"],
+		"DESCRIPTIONS": ["В конце каждого хода, получает #b", " случайного Положительного Эффекта. NL NL Взрывается через #b", " хода, нанося #b", " урона. NL (hits multiple times)"],
 		"NAME": "Ультимативный Куб"
 	},
 	"animator:UltimateWispPower":
 	{
-		"DESCRIPTIONS": ["Whenever it deals unblocked damage, add #b1 #yBurn to your discard pile. NL NL The first card played each turn is #yExhausted."],
+		"DESCRIPTIONS": ["Добавляет #b1 #yОжог в стопку сброса, когда наносит урон по ОЗ. NL NL #yСжигает первую разыгранную карту каждый ход."],
 		"NAME": "Ультимативный Огонёк"
 	},
 	"animator:UnnamedDollPower":
 	{
-		"DESCRIPTIONS": ["For the next #b", " turns, when playing a card which does not target this character, gains #b", " #yMax #yHP. NL NL ", "On death, ALL characters gain #b", " #yStrength."],
-		"NAME": "Безимянная кукла"
+		"DESCRIPTIONS": ["Следующие #b", " ход(а), когда вы разыгрываете карту не нацеленную на него, получает #b", " #yМакс #yОЗ. NL NL ", "ВСЕ получают #b", " #yСилы, когда погибает."],
+		"NAME": "Безымянная кукла"
 	},
 	"animator:VitalityPower":
 	{
-		"DESCRIPTIONS": ["Когда вы получаете урон в этом ходу, даёт #b", " #yВременного #HP."],
+		"DESCRIPTIONS": ["Когда вы получаете урон в этом ходу, даёт #b", " #yВременного #ОЗ."],
 		"NAME": "Живучесть"
 	},
 	"animator:YukoShionjiPower":

@@ -3,11 +3,11 @@
 	"animator:Doomed":
 	{
 		"NAME": "Обречён",
-		"DESCRIPTION": ["Умри в конце #b{0} хода. Это невозможно предотвратить."]
+		"DESCRIPTION": ["Умирает в конце #b{0} хода. Это невозможно предотвратить."]
 	},
 	"animator:Haunted":
 	{
-		"NAME": "Haunted",
+		"NAME": "Одержимый",
 		"DESCRIPTION": ["Это была плохая идея."]
 	},
 	"animator:UltimateCrystal":
@@ -18,7 +18,7 @@
 	"animator:UltimateCube":
 	{
 		"NAME": "Ультимативный Куб",
-		"DESCRIPTION": ["В конце вашего хода, получите #b{0} урона."]
+		"DESCRIPTION": ["В конце вашего первого хода, получите #b{0} урона."]
 	},
 	"animator:UltimateWisp":
 	{
