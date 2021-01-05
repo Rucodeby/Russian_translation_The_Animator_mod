@@ -1,6 +1,6 @@
 # Russian_translation_The_Animator_mod
 
-# https://drive.google.com/file/d/1mnKMj80SuCVG6qP8zdg1s6H4vbftON_w/view
+# Оригинальный мод: https://drive.google.com/file/d/1mnKMj80SuCVG6qP8zdg1s6H4vbftON_w/view
 
 ### Инструкция:
 
