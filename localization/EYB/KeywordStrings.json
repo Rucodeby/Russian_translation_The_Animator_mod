@@ -14,27 +14,27 @@
 	},
 	"Agility Stance":
 	{
-		"DESCRIPTION": "#g+2 #gЛовкости, #r-1 #rСила, #r-1 #rФокус. NL При Входе: #yДаёт #yПроворность. NL При Выходе: Берите 1 карту на следующий ход.",
+		"DESCRIPTION": "#g+2 #gЛовкости, #r-1 #rСила, #r-1 #rФокус. NL При Входе: #yДаёт #yПроворность. NL При Выходе: Вя берёте 1 карту на следующий ход.",
 		"NAMES": ["[a] стойка", "проворная стойка"],
 		"PROPER_NAME": "Проворная Стойка"
 	},
 	"Autoplay":
 	{
-	    "DESCRIPTION": "Automatically played. Requires [E].",
-	    "NAMES": ["autoplay", "autoplayed"],
-	    "PROPER_NAME": "Autoplay"
+	    "DESCRIPTION": "Сама разыгрывается. Требует [E].",
+	    "NAMES": ["самовольная", "самовольная"],
+	    "PROPER_NAME": "Самовольная"
 	},
     "~Lock-On":
     {
-        "DESCRIPTION": "Receive #b50% more damage from Orbs, and #b30% more damage from #yRanged attacks.",
-        "NAMES": ["~lock-on"],
-        "PROPER_NAME": "Lock-On"
+        "DESCRIPTION": "Получает на #b50% больше урона от Сфер, и на #b30% больше от #yДальнего урона.",
+        "NAMES": ["~захват цели", "~зават_цели"],
+        "PROPER_NAME": "Захват цели"
 	},
 	"Neutral Stance":
 	{
 	    "DESCRIPTION": "",
-	    "NAMES": ["neutral stance"],
-	    "PROPER_NAME": "Neutral Stance"
+	    "NAMES": ["нейтральная стойка"],
+	    "PROPER_NAME": "Нейтральная стойка"
 	},
 	"Blur":
 	{
@@ -51,7 +51,7 @@
 	"Burning":
 	{
 		"DESCRIPTION": "Получает урон в начале хода. И получает на #b4% больше урона от #yАтак за стак. Уменьшается на 1 каждый ход.",
-		"NAMES": ["горения", "горение"],
+		"NAMES": ["горение", "горения"],
 		"PROPER_NAME": "Горение"
 	},
 	"Choked":
@@ -69,8 +69,8 @@
 	"Cycle":
 	{
 		"DESCRIPTION": "Сбросьте данное число карт и возьмите столько же карт.",
-		"NAMES": ["цикл", "зацикливает", "зациклите"],
-		"PROPER_NAME": "Цикл"
+		"NAMES": ["прогон", "прогоняет", "прогоните"],
+		"PROPER_NAME": "Прогон"
 	},
 	"Demon Form":
 	{
@@ -98,7 +98,7 @@
 	},
 	"Fire":
 	{
-		"DESCRIPTION": "Сфера: Накладывает #yГорение и наносит урон наиживейшему врагу.",
+		"DESCRIPTION": "Сфера: Накладывает #yГорение и наносит урон врагу с наибольшим ОЗ.",
 		"NAMES": ["огонь", "огонь+", "огня"],
 		"PROPER_NAME": "Огонь"
 	},
@@ -128,7 +128,7 @@
 	},
 	"Hindrance":
 	{
-		"DESCRIPTION": "#yСтатус или #yПроклятье.",
+		"DESCRIPTION": "Это #yСтатус или #yПроклятье.",
 		"NAMES": ["помеха", "помехи", "помеху"],
 		"PROPER_NAME": "Помеха"
 	},
@@ -201,7 +201,7 @@
 	"Shackles":
 	{
 		"DESCRIPTION": "Уменьшает #yСилу до конца хода .",
-		"NAMES": ["оковы"],
+		"NAMES": ["оковы", "оков"],
 		"PROPER_NAME": "Оковы"
 	},
 	"Slow":
@@ -242,8 +242,8 @@
 	},
 	"~Haste":
 	{
-		"DESCRIPTION": "Теряет #yСпешку и берёте 1 карту, когда берёте её.",
-		"NAMES": ["~спешка"],
+		"DESCRIPTION": "Теряет #yСпешку и берёт 1 карту, когда берёте эту карту.",
+		"NAMES": ["~спешка", "~спешку"],
 		"PROPER_NAME": "Спешка"
 	},
 	"~Innate":
